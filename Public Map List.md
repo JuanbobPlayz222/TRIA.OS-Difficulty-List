@@ -66,7 +66,7 @@
 
 ``2.63`` **Acedia** by Vara [8077946143/acedia] [https://www.youtube.com/watch?v=5RL7vZ3cZOM]
 
-``2.22`` **Grind District** by Super [10701400284/grind] [https://www.youtube.com/watch?v=3NAtLrFWHGk]
+``2.22`` **Grind District** by Super, MrTdc [10701400284/grind] [https://www.youtube.com/watch?v=3NAtLrFWHGk]
 
 > **Easy**
  
